@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">G5 LabTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_part_a_">PartA_Activity</string>
+    <string name="title_activity_part_b_">PartB_Activity</string>
+    <string name="title_activity_about_us_">aboutUS_Activity</string>
+</resources>
